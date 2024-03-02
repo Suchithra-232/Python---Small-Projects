@@ -25,6 +25,14 @@ Guess is too small. Guess a bigger number.
 Guess the number or type QUIT to exit: 70
 SUCCESS! You guessed the correct number.
 
+# 2. Random Password Generator
+This Python script serves as a simple random password generator. It generates a secure password with a default length of 8 characters, combining uppercase and lowercase letters, digits, and punctuation symbols.
+# Customization
+You can customize the length of the generated password by modifying the password_len variable in the script.
+# Running the Script
+python3 generate_password.py
+
+# Feel free to contribute, report issues, or suggest improvements! Enjoy using the random password generator!
 
 
 
