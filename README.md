@@ -32,7 +32,7 @@ You can customize the length of the generated password by modifying the password
 # Running the Script
 python3 generate_password.py
 
-# Feel free to contribute, report issues, or suggest improvements! Enjoy using the random password generator!
+# Feel free to contribute, report issues, or suggest improvements! Enjoy playing around with python!
 
 
 
